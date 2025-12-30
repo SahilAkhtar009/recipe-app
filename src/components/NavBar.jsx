@@ -29,7 +29,7 @@ function NavBar({ GetFood, SearchFood }) {
     <div className="w-full flex flex-col lg:flex-row items-center justify-between gap-4 p-4 border-b text-white bg-[#1a1a1a]">
       {/* Title */}
       <div className="bg-yellow-500 w-full lg:w-[200px] p-2 rounded-md text-center">
-        <h1 className="text-xl font-semibold">Recipe App</h1>
+        <h1 className="text-xl font-semibold">FoodyJn</h1>
       </div>
 
       {/* Search Form */}
